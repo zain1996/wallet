@@ -1,0 +1,11 @@
+# OS X
+.DS_Store
+
+# Node
+node_modules
+package-lock.json
+
+# Cordova
+platforms
+plugins
+res
